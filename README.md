@@ -4,3 +4,6 @@
 ● Role: Security Engineer supporting the SOC infrastructure 
 
 ● Tools: Wireshark, Burpstuie, Malwarebytes
+
+
+https://docs.google.com/presentation/d/1EhHaU9zunQa9FLYr3InZbb9ozDB7k-1H/edit?usp=sharing&ouid=102927157851855195714&rtpof=true&sd=true 
